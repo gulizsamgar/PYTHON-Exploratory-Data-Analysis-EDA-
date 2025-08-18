@@ -5,7 +5,7 @@
 
 **Hedef: Bu projenin temel hedefi, görev tabanlı keşifsel veri analizi (EDA) prensiplerini kullanarak çeşitli veri setleri üzerinde temel ve orta seviye veri işleme, manipülasyon, analiz ve görselleştirme görevlerini pratik etmektir.**
 
-**Açıklama: Proje, yaygın olarak kullanılan Car Crashes, Titanic ve Tips veri setlerini inceleyerek veri yükleme, yapı anlama, eksik değerleri ele alma, veri filtreleme, gruplama, özetleme, özellik mühendisliği, görselleştirme ve temel istatistiksel analizler gibi veri bilimi süreçlerini adım adım göstermektedir. Her bölüm, yapılan işlemleri ve kullanılan yöntemleri açıklamaktadır.
+**Açıklama:** Proje, yaygın olarak kullanılan Car Crashes, Titanic ve Tips veri setlerini inceleyerek veri yükleme, yapı anlama, eksik değerleri ele alma, veri filtreleme, gruplama, özetleme, özellik mühendisliği, görselleştirme ve temel istatistiksel analizler gibi veri bilimi süreçlerini adım adım göstermektedir. Her bölüm, yapılan işlemleri ve kullanılan yöntemleri açıklamaktadır.
 
 Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmıştır.**
 
