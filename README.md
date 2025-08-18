@@ -1,9 +1,10 @@
 # Python | Keşifsel Veri Analizi (EDA)
+---
 ## Projeye Genel Bakış
 
 **Komut Dosyaları:** [`Python explortory data analysis (EDA)`](https://github.com/gulizsamgar/PYTHON-Exploratory-Data-Analysis-EDA-/tree/7fd08bbe35463160fb8912489da992ef9584b7c2/Scripts)
 
-**Hedef: Bu projenin temel hedefi, görev tabanlı keşifsel veri analizi (EDA) prensiplerini kullanarak çeşitli veri setleri üzerinde temel ve orta seviye veri işleme, manipülasyon, analiz ve görselleştirme görevlerini pratik etmektir.**
+**Hedef:** Bu projenin temel hedefi, görev tabanlı keşifsel veri analizi (EDA) prensiplerini kullanarak çeşitli veri setleri üzerinde temel ve orta seviye veri işleme, manipülasyon, analiz ve görselleştirme görevlerini pratik etmektir.
 
 **Açıklama:** Proje, yaygın olarak kullanılan Car Crashes, Titanic ve Tips veri setlerini inceleyerek veri yükleme, yapı anlama, eksik değerleri ele alma, veri filtreleme, gruplama, özetleme, özellik mühendisliği, görselleştirme ve temel istatistiksel analizler gibi veri bilimi süreçlerini adım adım göstermektedir. Her bölüm, yapılan işlemleri ve kullanılan yöntemleri açıklamaktadır.
 
