@@ -52,6 +52,6 @@ Kodları çalıştırmak için Python 3.x yüklü bir geliştirme ortamında `.p
 - Kendi veri setleriniz üzerinde benzer EDA adımlarını uygulamak için aşağıdaki not defterini bir şablon olarak kullanın.
 
 ## Detaylı Açıklamalar
-Her görevin detaylı açıklamaları ve çıktıları için proje klasöründeki **[`.ipjynb dosyasına`]([https://github.com/gulizsamgar/Python-Fundamentals-Showcase/blob/f7ae6b0244ebec2be271eff4d69bfcb0d072b644/Python%20Fundamentals%20Showcase.pdf](https://github.com/gulizsamgar/PYTHON-Exploratory-Data-Analysis-EDA-/blob/04ea6692dd65f2c65794def2e0e3e914ffe6521a/Python_exploratory_data_analysis_(EDA).ipynb))** göz atabilirsiniz.
+Her görevin detaylı açıklamaları ve çıktıları için proje klasöründeki **[`.ipjynb dosyasına`]((https://github.com/gulizsamgar/PYTHON-Exploratory-Data-Analysis-EDA-/blob/04ea6692dd65f2c65794def2e0e3e914ffe6521a/Python_exploratory_data_analysis_(EDA).ipynb))** göz atabilirsiniz.
 
 ---
