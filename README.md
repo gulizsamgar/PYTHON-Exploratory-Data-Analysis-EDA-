@@ -9,6 +9,8 @@
 
 Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmıştır.**
 
+---
+
 ## İçerik
 
 Not defteri üç ana bölümden oluşmaktadır:
@@ -17,6 +19,8 @@ Not defteri üç ana bölümden oluşmaktadır:
 **Titanic Veri Seti (Görev 1-32):** Detaylı veri keşfi, temizliği, gruplama, özellik mühendisliği, tek, iki ve çok değişkenli analizler (korelasyon, pairplot), çarpıklık analizi ve dönüşümleri.
 **Tips Veri Seti (Görev 1-17):** Temel veri keşfi, gruplama, filtreleme, özellik mühendisliği ve görselleştirme (pasta grafik, çubuk grafik, dağılım grafiği, kutu grafiği).
 Her bölüm, ilgili veri setine özgü görevleri ve bu görevlerin açıklamalarını içermektedir.
+
+---
 
 ## Beceriler
 - Keşifsel Veri Analizi (EDA) yapma
@@ -28,9 +32,13 @@ Her bölüm, ilgili veri setine özgü görevleri ve bu görevlerin açıklamala
 - Veri setlerindeki ilişkileri ve dağılımları anlama
 - Eksik değerleri ve aykırı değerleri yönetme
 
+---
+
 ## Teknoloji
 - Python (3.x)
 - Python IDE'si PyCharm
+
+---
 
 ## Araçlar ve Kitaplıklar
 - Python Programlama: Temel sözdizimi, list comprehension, fonksiyonlar, koşullu ifadeler, döngüler.
@@ -41,6 +49,8 @@ Her bölüm, ilgili veri setine özgü görevleri ve bu görevlerin açıklamala
 - Scipy.stats: İstatistiksel fonksiyonlar (özellikle Q-Q plot için).
 - Jupyter Not Defteri: Kod çalıştırma, çıktıları görüntüleme ve Markdown ile belgelemeyi bir arada sunmak için. 
 
+---
+
 ## Kullanım
 Kodları çalıştırmak için Python 3.x yüklü bir geliştirme ortamında `.py` dosyalarını çalıştırabilirsiniz.
 
@@ -50,6 +60,8 @@ Kodları çalıştırmak için Python 3.x yüklü bir geliştirme ortamında `.p
 - Markdown hücrelerindeki açıklamaları okuyarak yapılan işlemlerin amacını ve sonuçlarını anlayın.
 - Alternatif yaklaşımları deneyerek farklı yöntemleri keşfedin.
 - Kendi veri setleriniz üzerinde benzer EDA adımlarını uygulamak için aşağıdaki not defterini bir şablon olarak kullanın.
+
+---
 
 ## Detaylı Açıklamalar
 Her görevin detaylı açıklamaları ve çıktıları için proje klasöründeki **[`.ipjynb dosyasına`]((https://github.com/gulizsamgar/PYTHON-Exploratory-Data-Analysis-EDA-/blob/04ea6692dd65f2c65794def2e0e3e914ffe6521a/Python_exploratory_data_analysis_(EDA).ipynb))** göz atabilirsiniz.
