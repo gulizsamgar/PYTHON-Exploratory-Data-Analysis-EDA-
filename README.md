@@ -17,7 +17,9 @@ Kodlar **PEP 8 standartlarına uygun** ve açıklamalı şekilde hazırlanmışt
 Not defteri üç ana bölümden oluşmaktadır:
 
 **Car Crashes Veri Seti (Görev 1-4)**: List Comprehensions ile temel veri işleme adımları.
+
 **Titanic Veri Seti (Görev 1-32):** Detaylı veri keşfi, temizliği, gruplama, özellik mühendisliği, tek, iki ve çok değişkenli analizler (korelasyon, pairplot), çarpıklık analizi ve dönüşümleri.
+
 **Tips Veri Seti (Görev 1-17):** Temel veri keşfi, gruplama, filtreleme, özellik mühendisliği ve görselleştirme (pasta grafik, çubuk grafik, dağılım grafiği, kutu grafiği).
 Her bölüm, ilgili veri setine özgü görevleri ve bu görevlerin açıklamalarını içermektedir.
 
