@@ -1,5 +1,5 @@
 # Python | Keşifsel Veri Analizi (EDA)
----
+
 ## Projeye Genel Bakış
 
 **Komut Dosyaları:** [`Python explortory data analysis (EDA)`](https://github.com/gulizsamgar/PYTHON-Exploratory-Data-Analysis-EDA-/tree/7fd08bbe35463160fb8912489da992ef9584b7c2/Scripts)
