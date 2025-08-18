@@ -1,7 +1,7 @@
 # Python | Keşifsel Veri Analizi (EDA)
 ## Projeye Genel Bakış
 
-**Komut Dosyaları:** [`Python explortory data analysis (EDA)`]([https://github.com/gulizsamgar/Python-Fundamentals-Showcase/blob/3234cdc6c4433f8cec8b454b58bf12632ddde1da/Python%20Fundamentals%20Showcase.py](https://github.com/gulizsamgar/PYTHON-Exploratory-Data-Analysis-EDA-/tree/04ea6692dd65f2c65794def2e0e3e914ffe6521a/Scripts))
+**Komut Dosyaları:** [`Python explortory data analysis (EDA)`](https://github.com/gulizsamgar/PYTHON-Exploratory-Data-Analysis-EDA-/tree/7fd08bbe35463160fb8912489da992ef9584b7c2/Scripts)
 
 **Hedef: Bu projenin temel hedefi, görev tabanlı keşifsel veri analizi (EDA) prensiplerini kullanarak çeşitli veri setleri üzerinde temel ve orta seviye veri işleme, manipülasyon, analiz ve görselleştirme görevlerini pratik etmektir.**
 
