@@ -40,6 +40,7 @@ Her bölüm, ilgili veri setine özgü görevleri ve bu görevlerin açıklamala
 ## Teknoloji
 - Python (3.x)
 - Python IDE'si PyCharm
+- Google Colab (veya Jupyter Not Defteri)
 
 ---
 
